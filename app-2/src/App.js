@@ -8,11 +8,11 @@ class App extends Component {
 
     this.state = {
       foods: [
-        "spaghetti",
-        "ice cream",
-        "sushi",
-        "bologna",
-        "cheese"
+        "rice",
+        "banana",
+        "egg",
+        "cake",
+        "water"
       ]
     }
   }
